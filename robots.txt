@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jincuriqi.github.io/sitemapx.xml
